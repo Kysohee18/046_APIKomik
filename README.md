@@ -12,3 +12,10 @@ Read/get all komik
 <img width="1270" height="947" alt="image" src="https://github.com/user-attachments/assets/37c02ffa-e40d-40d8-a18c-ea334590de5a" />
 delete komik/ use token
 <img width="1250" height="792" alt="image" src="https://github.com/user-attachments/assets/436f540d-a8ee-46b4-8e95-d4fee825a773" />
+post genre
+<img width="1222" height="927" alt="image" src="https://github.com/user-attachments/assets/b45f5fc7-6d72-48c8-a24f-f2eb1b36b022" />
+get genre
+<img width="1247" height="917" alt="image" src="https://github.com/user-attachments/assets/103f4ec3-39bb-458a-81fc-0aa8d0204146" />
+put genre
+delete genre
+<img width="1266" height="796" alt="image" src="https://github.com/user-attachments/assets/2aa0e09b-8759-45cb-803d-a65850e63e82" />
