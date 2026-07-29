@@ -11,7 +11,6 @@ router.post("/login", usercontroller.login);
 router.get('/komik',komikcontroller.getAllKomik);
 router.get('/komik/:id',komikcontroller.getKomikById);
 //private
-
 router.post('/komik',komikcontroller.createKomik);
 router.put('/komik/:id',komikcontroller.updateKomik);
 router.delete('/komik/:id',komikcontroller.deleteKomik);
